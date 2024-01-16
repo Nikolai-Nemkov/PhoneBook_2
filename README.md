@@ -12,5 +12,7 @@ https://github.com/Nikolai-Nemkov/PhoneBook_2/blob/main/view.py
 Text     
 https://github.com/Nikolai-Nemkov/PhoneBook_2/blob/main/text.py  
 
+Main
+https://github.com/Nikolai-Nemkov/PhoneBook_2/blob/main/main.py
 
 
